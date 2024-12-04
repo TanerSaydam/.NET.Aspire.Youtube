@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bhQSJQxiw3F91h2WfjkWFlzehWZMmCgmX05luxbLgVc=",
+  "Source": "MicroserviceWithAspire.ProductWebAPI",
+  "BasePath": "_content/MicroserviceWithAspire.ProductWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

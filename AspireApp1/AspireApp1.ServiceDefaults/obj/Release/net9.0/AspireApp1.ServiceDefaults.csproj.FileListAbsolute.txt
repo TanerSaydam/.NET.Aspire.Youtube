@@ -1,0 +1,12 @@
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\bin\Release\net9.0\AspireApp1.ServiceDefaults.deps.json
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\bin\Release\net9.0\AspireApp1.ServiceDefaults.dll
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\bin\Release\net9.0\AspireApp1.ServiceDefaults.pdb
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\AspireApp1.ServiceDefaults.csproj.AssemblyReference.cache
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\AspireApp1.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\AspireApp1.ServiceDefaults.AssemblyInfoInputs.cache
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\AspireApp1.ServiceDefaults.AssemblyInfo.cs
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\AspireApp1.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\AspireApp1.ServiceDefaults.dll
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\refint\AspireApp1.ServiceDefaults.dll
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\AspireApp1.ServiceDefaults.pdb
+C:\.NET.Aspire.Youtube\AspireApp1\AspireApp1.ServiceDefaults\obj\Release\net9.0\ref\AspireApp1.ServiceDefaults.dll

@@ -1,0 +1,6 @@
+@MicroserviceWithAspire.ProductWebAPI_HostAddress = http://localhost:5075
+
+GET {{MicroserviceWithAspire.ProductWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

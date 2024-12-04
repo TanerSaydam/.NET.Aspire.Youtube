@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET.Aspire.Youtube\\AspireApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4294E96-1A38-4162-8E78-59ACB8DD0FEF}|AspireApp1.AppHost\\AspireApp1.AppHost.csproj|c:\\.net.aspire.youtube\\aspireapp1\\aspireapp1.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4294E96-1A38-4162-8E78-59ACB8DD0FEF}|AspireApp1.AppHost\\AspireApp1.AppHost.csproj|solutionrelative:aspireapp1.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EA8B56-8E88-4C44-890E-984898D49EE1}|AspireApp1.Web\\AspireApp1.Web.csproj|c:\\.net.aspire.youtube\\aspireapp1\\aspireapp1.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EA8B56-8E88-4C44-890E-984898D49EE1}|AspireApp1.Web\\AspireApp1.Web.csproj|solutionrelative:aspireapp1.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF746413-9ADE-468D-B692-40E6ADFD6524}|AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj|c:\\.net.aspire.youtube\\aspireapp1\\aspireapp1.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF746413-9ADE-468D-B692-40E6ADFD6524}|AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj|solutionrelative:aspireapp1.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\AspireApp1\\AspireApp1.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AspireApp1.AppHost\\Program.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\AspireApp1\\AspireApp1.AppHost\\Program.cs",
+              "RelativeToolTip": "AspireApp1.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:28:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\AspireApp1\\AspireApp1.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AspireApp1.Web\\Program.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\AspireApp1\\AspireApp1.Web\\Program.cs",
+              "RelativeToolTip": "AspireApp1.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:27:51.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "AspireApp1.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "AspireApp1.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:27:45.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

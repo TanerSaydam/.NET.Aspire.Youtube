@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WajH8IwHyYH/nHMuWPcxTSOBbI4uYITbagjuEN6hE1Q=",
+  "Source": "MyMicroserviceWithAspire.GatewayWebAPI",
+  "BasePath": "_content/MyMicroserviceWithAspire.GatewayWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

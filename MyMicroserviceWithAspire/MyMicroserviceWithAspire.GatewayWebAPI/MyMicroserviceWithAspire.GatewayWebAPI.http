@@ -1,0 +1,6 @@
+@MyMicroserviceWithAspire.GatewayWebAPI_HostAddress = http://localhost:5285
+
+GET {{MyMicroserviceWithAspire.GatewayWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

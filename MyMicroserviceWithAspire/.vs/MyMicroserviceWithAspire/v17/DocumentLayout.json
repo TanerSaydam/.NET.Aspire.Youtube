@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5020C347-F6F4-4C45-95DE-7715F2EC72B0}|AppHost\\AppHost.csproj|c:\\.net.aspire.youtube\\mymicroservicewithaspire\\apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5020C347-F6F4-4C45-95DE-7715F2EC72B0}|AppHost\\AppHost.csproj|solutionrelative:apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162D3950-262B-4A87-9C42-5698839198AB}|MyMicroserviceWithAspire.GatewayWebAPI\\MyMicroserviceWithAspire.GatewayWebAPI.csproj|c:\\.net.aspire.youtube\\mymicroservicewithaspire\\mymicroservicewithaspire.gatewaywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162D3950-262B-4A87-9C42-5698839198AB}|MyMicroserviceWithAspire.GatewayWebAPI\\MyMicroserviceWithAspire.GatewayWebAPI.csproj|solutionrelative:mymicroservicewithaspire.gatewaywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F285848-5E11-4974-A62A-407FBF0B5C87}|MyMicroserviceWithAspire.CategoryWebAPI\\MyMicroserviceWithAspire.CategoryWebAPI.csproj|c:\\.net.aspire.youtube\\mymicroservicewithaspire\\mymicroservicewithaspire.categorywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F285848-5E11-4974-A62A-407FBF0B5C87}|MyMicroserviceWithAspire.CategoryWebAPI\\MyMicroserviceWithAspire.CategoryWebAPI.csproj|solutionrelative:mymicroservicewithaspire.categorywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FCB0D5-A659-4C21-B097-1943723D83EC}|MicroserviceWithAspire.ProductWebAPI\\MicroserviceWithAspire.ProductWebAPI.csproj|c:\\.net.aspire.youtube\\mymicroservicewithaspire\\microservicewithaspire.productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FCB0D5-A659-4C21-B097-1943723D83EC}|MicroserviceWithAspire.ProductWebAPI\\MicroserviceWithAspire.ProductWebAPI.csproj|solutionrelative:microservicewithaspire.productwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BD3D10-0291-4C7A-86EA-74DF5FFAFD88}|ServiceDefaults\\ServiceDefaults.csproj|c:\\.net.aspire.youtube\\mymicroservicewithaspire\\servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BD3D10-0291-4C7A-86EA-74DF5FFAFD88}|ServiceDefaults\\ServiceDefaults.csproj|solutionrelative:servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AppHost\\Program.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\AppHost\\Program.cs",
+              "RelativeToolTip": "AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:37:28.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\MyMicroserviceWithAspire.GatewayWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyMicroserviceWithAspire.GatewayWebAPI\\Program.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\MyMicroserviceWithAspire.GatewayWebAPI\\Program.cs",
+              "RelativeToolTip": "MyMicroserviceWithAspire.GatewayWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:36:42.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\MyMicroserviceWithAspire.CategoryWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyMicroserviceWithAspire.CategoryWebAPI\\Program.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\MyMicroserviceWithAspire.CategoryWebAPI\\Program.cs",
+              "RelativeToolTip": "MyMicroserviceWithAspire.CategoryWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:36:24.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:35:44.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\MicroserviceWithAspire.ProductWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MicroserviceWithAspire.ProductWebAPI\\Program.cs",
+              "ToolTip": "C:\\.NET.Aspire.Youtube\\MyMicroserviceWithAspire\\MicroserviceWithAspire.ProductWebAPI\\Program.cs",
+              "RelativeToolTip": "MicroserviceWithAspire.ProductWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:35:34.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

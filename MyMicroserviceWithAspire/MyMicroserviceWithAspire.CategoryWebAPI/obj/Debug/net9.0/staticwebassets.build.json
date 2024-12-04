@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kgdPpp1fgvxvWGhuW9QCT2QSZhh4ph4mNijHLsKc1I4=",
+  "Source": "MyMicroserviceWithAspire.CategoryWebAPI",
+  "BasePath": "_content/MyMicroserviceWithAspire.CategoryWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
